@@ -1,0 +1,9 @@
+2019-12-31 14:07:25 INFO  :? - run method[ 'add' ] parameters:[ 'Hello' ]
+2019-12-31 14:07:25 INFO  :32 - stop method[ 'add' ] not return
+2019-12-31 14:07:25 INFO  :? - run method[ 'printInfo' ] not parameters
+2019-12-31 14:07:25 INFO  :16 - stop method[ 'printInfo' ] return: Hello
+2019-12-31 14:07:25 INFO  :? - run method[ 'add' ] parameters:[ 'World!' ]
+2019-12-31 14:07:25 INFO  :32 - stop method[ 'add' ] not return
+2019-12-31 14:07:25 INFO  :? - run method[ 'printInfo' ] not parameters
+2019-12-31 14:07:25 INFO  :16 - stop method[ 'printInfo' ] return: Hello
+World!
